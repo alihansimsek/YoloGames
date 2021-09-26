@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamteck.Splines.Editor", "Dreamteck.Splines.Editor.csproj", "{4E248245-6917-209D-06A0-53DC172DA550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{DF30A433-0D78-D68C-99EC-E883AEEA6B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamteck.Utilities", "Dreamteck.Utilities.csproj", "{0BB077BA-DB48-BBFF-F164-E53D1181C966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamteck.Splines", "Dreamteck.Splines.csproj", "{69292E7C-B6E1-490D-04B8-CE3E26CCCAFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewAssembly", "NewAssembly.csproj", "{5681971A-4DEA-200A-670F-C0522DECB7D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E248245-6917-209D-06A0-53DC172DA550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E248245-6917-209D-06A0-53DC172DA550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E248245-6917-209D-06A0-53DC172DA550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E248245-6917-209D-06A0-53DC172DA550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF30A433-0D78-D68C-99EC-E883AEEA6B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF30A433-0D78-D68C-99EC-E883AEEA6B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF30A433-0D78-D68C-99EC-E883AEEA6B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF30A433-0D78-D68C-99EC-E883AEEA6B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB077BA-DB48-BBFF-F164-E53D1181C966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB077BA-DB48-BBFF-F164-E53D1181C966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB077BA-DB48-BBFF-F164-E53D1181C966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB077BA-DB48-BBFF-F164-E53D1181C966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69292E7C-B6E1-490D-04B8-CE3E26CCCAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69292E7C-B6E1-490D-04B8-CE3E26CCCAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69292E7C-B6E1-490D-04B8-CE3E26CCCAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69292E7C-B6E1-490D-04B8-CE3E26CCCAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5681971A-4DEA-200A-670F-C0522DECB7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5681971A-4DEA-200A-670F-C0522DECB7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5681971A-4DEA-200A-670F-C0522DECB7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5681971A-4DEA-200A-670F-C0522DECB7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
